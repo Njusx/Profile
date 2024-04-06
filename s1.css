@@ -31,19 +31,3 @@ a {
 a:hover {
     color: darkblue;
 }
-
-/* Additional CSS */
-.image1 {
-    background-image: url('KBData/Tugas1.jpg');
-    width: 150px;
-    height: 150px;
-    background-size: cover; /* or contain, depending on your preference */
-}
-
-.image2 {
-    background-image: url('KBData/T2.1.jpg'), url('KBData/T2.2.jpg'), url('KBData/T2.3.jpg');
-    background-size: cover; /* or contain, depending on your preference */
-    background-repeat: no-repeat;
-    width: 150px;
-    height: 150px;
-}
